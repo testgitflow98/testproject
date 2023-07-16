@@ -1,14 +1,8 @@
 # Testing GitHub commands, flows, tools...
 
-**test bold text**
-**test italic text**
-~~test strikethrough text~~
-**test **italic** inside bold**
-**_test all bold and italic_**
-<sub>text subscript text</sub>
-<sup>test superscript text</sup>
+my [GitHub](https://github.com/testgitflow98)
 
-> test quote
+> Main page
 
 ```
 <!DOCTYPE html>
@@ -23,3 +17,10 @@
   </body>
 </html>
 ```
+
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
+Technologies used:
+
+- HTML
+- CSS
